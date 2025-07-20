@@ -4,28 +4,28 @@ I’m interested in solving real-world problems through **data-driven systems**,
 
 ### Tools & Technologies
 
-**Languages**
+**Languages**  
 Python • JavaScript
 
-**Machine Learning & Data Science**
+**Machine Learning & Data Science**  
 NumPy • Pandas • Matplotlib • Seaborn • Plotly • Scikit-Learn • TensorFlow • PyTorch
 
-**Web Development**
+**Web Development**  
 Node.js • Vue • TailwindCSS, SQL, Flask
 
-**Other Tools**
+**Other Tools**  
 Git • VS Code
 
 I’m always exploring new libraries, frameworks, and ways to improve my workflow and expand my technical toolkit.
 
 ### Interests
 
-* **Applied Machine Learning**
+* **Applied Machine Learning**  
   Designing ML systems that tackle real-world challenges, with a focus on practical deployment and reliability.
 
-* **Model Interpretability**
+* **Model Interpretability**  
   Building models that not only perform well but can be trusted, understood, and explained—especially in high-stakes domains like healthcare or finance.
 
-* **Scientific & Research Computing**
+* **Scientific & Research Computing**  
   Leveraging computation to explore and answer complex questions, particularly in interdisciplinary research settings.
 
