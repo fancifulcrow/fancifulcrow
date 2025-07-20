@@ -1,26 +1,31 @@
-<h1>Hello There</h1>
+# Hello There!
 
-<p>
-I'm interested in Data Science & Machine learning. I also do Web Development.
-</p>
+I’m interested in solving real-world problems through **data-driven systems**, **research** and **practical design**. My work focuses on using machine learning and scientific computing to build tools, systems, and insights that are both functional and meaningful.
 
-<h2>Skills</h2>
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-    <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />        
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-</div>
+### Tools & Technologies
+
+**Languages**
+Python • JavaScript
+
+**Machine Learning & Data Science**
+NumPy • Pandas • Matplotlib • Seaborn • Plotly • Scikit-Learn • TensorFlow • PyTorch
+
+**Web Development**
+Node.js • Vue • TailwindCSS, SQL, Flask
+
+**Other Tools**
+Git • VS Code
+
+I’m always exploring new libraries, frameworks, and ways to improve my workflow and expand my technical toolkit.
+
+### Interests
+
+* **Applied Machine Learning**
+  Designing ML systems that tackle real-world challenges, with a focus on practical deployment and reliability.
+
+* **Model Interpretability**
+  Building models that not only perform well but can be trusted, understood, and explained—especially in high-stakes domains like healthcare or finance.
+
+* **Scientific & Research Computing**
+  Leveraging computation to explore and answer complex questions, particularly in interdisciplinary research settings.
+
