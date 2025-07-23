@@ -1,6 +1,6 @@
 # Hello There!
 
-I’m interested in solving real-world problems through **data-driven systems**, **research** and **practical design**. My work focuses on using machine learning and scientific computing to build tools, systems, and insights that are both functional and meaningful.
+I’m interested in solving real-world problems through data-driven systems, research and practical design. My work focuses on using machine learning and scientific computing to build tools, systems, and insights that are both functional and meaningful.
 
 ### Tools & Technologies
 
@@ -11,7 +11,7 @@ Python • JavaScript
 NumPy • Pandas • Matplotlib • Seaborn • Plotly • Scikit-Learn • TensorFlow • PyTorch
 
 **Web Development**  
-Node.js • Vue • TailwindCSS, SQL, Flask
+Node.js • Vue • TailwindCSS • SQL • Flask • FastAPI
 
 **Other Tools**  
 Git • VS Code
