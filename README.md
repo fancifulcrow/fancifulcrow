@@ -1,31 +1,14 @@
-# Hello There!
+# Hello There! 👋
 
-I’m interested in solving real-world problems through data-driven systems, research and practical design. My work focuses on using machine learning and scientific computing to build tools, systems, and insights that are both functional and meaningful.
+I’m currently a master’s student in Computer Science – Artificial Intelligence. Mainly, I’m interested in Time Series Analysis, Machine Explainability, and Knowledge Representation. Sometimes, you may see me doing things like game development or utility scripting as a hobby.
 
-### Tools & Technologies
+## Tools & Technologies
 
-**Languages**  
-Python • JavaScript
-
-**Machine Learning & Data Science**  
-NumPy • Pandas • Matplotlib • Seaborn • Plotly • Scikit-Learn • TensorFlow • PyTorch
-
-**Web Development**  
-Node.js • Vue • TailwindCSS • SQL • Flask • FastAPI
-
-**Other Tools**  
-Git • VS Code
-
-I’m always exploring new libraries, frameworks, and ways to improve my workflow and expand my technical toolkit.
-
-### Interests
-
-* **Applied Machine Learning**  
-  Designing ML systems that tackle real-world challenges, with a focus on practical deployment and reliability.
-
-* **Model Interpretability**  
-  Building models that not only perform well but can be trusted, understood, and explained—especially in high-stakes domains like healthcare or finance.
-
-* **Scientific & Research Computing**  
-  Leveraging computation to explore and answer complex questions, particularly in interdisciplinary research settings.
-
+<p align="center">
+<img src="./assets/python-simple-icons.svg" width="40" alt="Python">
+<img src="./assets/javascript-simple-icons.svg" width="40" alt="Javascript">
+<img src="./assets/rust-simple-icons.svg" width="40" alt="Rust">
+<img src="./assets/linux-simple-icons.svg" width="40" alt="Linux">
+<img src="./assets/godot-simple-icons.svg" width="40" alt="Godot">
+<img src="./assets/blender-simple-icons.svg" width="40" alt="Blender">
+</p>
